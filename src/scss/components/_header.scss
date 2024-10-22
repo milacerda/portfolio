@@ -1,0 +1,10 @@
+@import '../abstracts/variables';
+
+button.navbar-toggler {
+  border-color: $primary-color;
+
+  .navbar-toggler-icon {
+    color: $primary-color;
+    border-color: $primary-color;
+  }
+}
